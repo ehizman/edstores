@@ -1,0 +1,84 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.navbar-translate{
+	padding-left: 30px;
+}
+
+button.modalbutton{
+	background-color: #f96332;
+	border-radius: 30px;
+	border-color: transparent;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 11px 23px;
+    line-height: 1.5;
+    margin:0px;
+    box-shadow: 0px 5px rgba(0, 0, 0, 0.3)
+}
+.mybtn-text{
+	z-index: 1;
+}
+div.align{
+	display: flex;
+	justify-content: flex-start;
+	position: relative;
+}
+
+
+.page-header .page-header-image {
+  position: absolute;
+  background-size: cover;
+  background-position: top;
+  width: 100%;
+  height: 80%;
+  z-index: 1;
+}
+
+p.navigation{
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+}
+
+.carousel-item {
+	height: 90%;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+
+.mybtn_text{
+	padding:0px;
+	margin: 0px;
+	border-radius: 30px;
+    color: #FFFFFF;
+    padding: 11px 23px;
+    line-height: 1.5;
+    margin:0px;
+    box-shadow: 0px 5px rgba(0, 0, 0, 0.3)
+}
+
+h5.no_margin{
+	margin: 0px;
+	padding: 0px;
+	z-index: 2;
+}
+
+.nav-tabs>.nav-item>.nav-link.active{
+	background-color: #f96332;
+	margin: 10px;
+}
+
+.nav-tabs:not(.nav-tabs-neutral)>.nav-item>.nav-link.active{
+	box-shadow: 0px 5px rgba(0, 0, 0, 0.3)
+}
+
+i{
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
